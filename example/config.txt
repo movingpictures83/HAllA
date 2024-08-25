@@ -1,0 +1,2 @@
+Prefix plugins/HAllA/example/
+Plugin HAllA inputfile parameters.txt outputfile output
