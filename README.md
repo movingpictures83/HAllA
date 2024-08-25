@@ -1,2 +1,2 @@
-# Halla
-Halla (Ghazi et al, 2022)
+# HAllA
+HAllA (Ghazi et al, 2022)
